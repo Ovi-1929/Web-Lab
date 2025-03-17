@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body{
+            width: 11/12;
+            margin: 0;
+        }
+    </style>
+ 
+</head>
+<body>
+    <div style="display: flex;">
+        <div>
+            <div style="background-color:yellow;height:400px;width:400px;">1</div>
+            <div style="background-color:rgb(141,111,141);height:400px;width:400px;">2</div>
+        </div>
+        <div style="background-color:rgb(235,154,154);height:800px;width:400px;">3</div>
+    </div>
+ 
+</body>
+</html>
